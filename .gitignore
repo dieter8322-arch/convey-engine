@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Go build artifacts
+bin/
+dist/
+build/
+coverage.out
+*.coverprofile
+*.out
+*.prof
+*.test
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.cache/
+.sanshu-memory/
